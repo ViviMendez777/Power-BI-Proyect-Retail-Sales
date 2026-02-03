@@ -13,7 +13,7 @@ Herramientas:
 Excel → archivo fuente.
 Power BI → transformación, modelado y visualización.
 
-
+https://github.com/ViviMendez777/IMAGENES/blob/main/image1.png
 
 2️⃣ Estructura de datos y flujo de transformación
 Extracción:
@@ -27,7 +27,7 @@ Tablas cargadas en Power BI y organizadas en un modelo dimensional.
 Flujo conceptual
 Datos brutos (Excel) → Transformaciones → Modelo dimensional (estrella) → Dashboards
 
-
+https://github.com/ViviMendez777/IMAGENES/blob/main/image2.png
 
 3️⃣ Modelo de datos (Esquema estrella)
 Tabla de hechos:
@@ -38,6 +38,7 @@ Dim_Producto: producto_id, nombre_producto, categoría, precio_unitario, marca.
 Dim_Tienda: tienda_id, nombre_tienda, ciudad, región, canal, formato.
 Dim_Cliente: cliente_id, nombre_cliente, segmento, edad, sexo, comunidad.
 
+https://github.com/ViviMendez777/IMAGENES/blob/main/image3.png
 
 4️⃣ Visualización y uso del dashboard
 Descripción general:
@@ -51,10 +52,12 @@ Interacciones clave:
 Filtros globales para periodo (3 años), producto, tienda y cliente.
 Drill-down por mes o trimestre en la dimensión tiempo.
 
+https://github.com/ViviMendez777/IMAGENES/blob/main/Dashboard.png
 
 5️⃣ Archivos y enlaces
 Archivo Excel fuente: Sample - Superstore.xlsx
 Archivo Power BI PBIX): Descargar aquí
+
 6️⃣ DAX
 Calendario = CALENDAR(DATE(2014,01,03), DATE(2017,12,30))
 
