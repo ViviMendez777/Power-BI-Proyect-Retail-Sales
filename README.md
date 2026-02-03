@@ -5,21 +5,7 @@
 Este proyecto transforma y visualiza las ventas de los últimos 3 años a partir de una planilla de Excel.
 Se realiza un proceso de ETL básico (extracción, transformación y carga), modelado de datos en un esquema estrella y la construcción de un dashboard interactivo en Power BI
 
-📑 Contenido
-Descripción del origen
-Estructura de datos y flujo de transformación
-Modelo de datos (Esquema estrella)
-Visualización y uso del dashboard
-Archivos y enlaces
-DAX
-Créditos
-Descripción del origen
-Estructura de datos y flujo de transformación
-Modelo de datos (Esquema estrella)
-Visualización y uso del dashboard
-Archivos y enlaces
-Cómo contribuir
-Créditos
+
 1️⃣ Descripción del origen
 Fuente: Planilla Excel de ventas (Sample - Superstore.xlsx).
 Propósito: Analizar ventas de los últimos 3 años por producto, tienda, tiempo y cliente.
