@@ -13,7 +13,6 @@ Herramientas:
 Excel → archivo fuente.
 Power BI → transformación, modelado y visualización.
 
-https://github.com/ViviMendez777/IMAGENES/blob/main/image1.png
 
 2️⃣ Estructura de datos y flujo de transformación
 Extracción:
@@ -53,6 +52,7 @@ Filtros globales para periodo (3 años), producto, tienda y cliente.
 Drill-down por mes o trimestre en la dimensión tiempo.
 
 https://github.com/ViviMendez777/IMAGENES/blob/main/Dashboard.png
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c63ea8b8-2295-4dd9-b0f9-05967f720779" />
 
 5️⃣ Archivos y enlaces
 Archivo Excel fuente: Sample - Superstore.xlsx
